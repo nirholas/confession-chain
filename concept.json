@@ -1,0 +1,11 @@
+{
+  "slug": "confession-chain",
+  "name": "Confession Chain",
+  "kind": "proof",
+  "description": "Package pseudonymous confessions with local redaction and permanence warnings.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
