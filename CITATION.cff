@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "confession-chain"
+abstract: "Package pseudonymous confessions with local redaction and permanence warnings."
+repository-code: "https://github.com/nirholas/confession-chain"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
