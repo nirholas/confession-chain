@@ -8,7 +8,7 @@ Package pseudonymous confessions with local redaction and permanence warnings.
 
 - Source: https://github.com/nirholas/confession-chain
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
